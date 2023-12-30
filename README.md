@@ -1,4 +1,5 @@
-# Todo App
+# Todo App <img src="https://github.com/Mahelchandupa/React-To-Do-App/assets/110615431/c9cb3b75-8d4c-4f63-b48a-7bb92dcd2550" height="30px" width="30px"/>
+
 
 A minimalist Todo application built with React. This app allows users to create, edit, and delete tasks, as well as mark them as completed or incomplete. It features a clean and intuitive user interface, and the state management is handled using React Context, Reducer and local storage, ensuring persistence even after page reloads.
 Currently, two official plugins are available:
